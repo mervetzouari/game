@@ -1,0 +1,283 @@
+[{
+    "id": 1,
+    "image": "../G-Educatif/1.png",
+    "name": "Les animaux de la ferme",
+    "description": "Chaque animal est entouré de ce qui a un rapport avec lui : nourriture, empreinte, production, habitat. A toi de trouver l'image qui ne correspond pas à cet animal.",
+    "link": "https://tidou.fr/4-6-ans/ludo-educatifs/405-les-animaux-de-la-ferme" },
+
+    {
+        "id":2,
+        "image": "../G-Educatif/2.png",
+        "name": "Tri selon la matière",
+        "description": "Le programme de maternelle prévoit d'apprendre à ranger, classer et trier. Ce jeu permet de trier des objets selon leur matière : bois, verre, plastique, tissu, papier et carton, et métal. ",
+        "link": "https://tidou.fr/4-6-ans/ludo-educatifs/404-tri-selon-les-matieres" },
+
+        {
+            "id":3,
+            "image": "../G-Educatif/3.png",
+            "name": "Quel genre d'animal est-ce ?",
+            "description": "Jeu gratuit en ligne qui consiste à classer les animaux par catégorie : ceux qui sont herbivores, les carnivores, les animaux de la ferme, les animaux marins... ",
+            "link": "https://tidou.fr/4-6-ans/ludo-educatifs/397-quel-genre-d-animal-est-ce" },
+
+            {
+                "id":4,
+                "image": "../G-Educatif/4.png",
+                "name": "Numération en ligne",
+                "description": "Exercices de numération pour se familiariser avec les nombres de 1 à 13 en classe de maternelle. ",
+                "link": "https://tidou.fr/4-6-ans/ludo-educatifs/371-combien" },
+
+                {
+                    "id":5,
+                    "image": "../G-Educatif/5.png",
+                    "name": "Labyrinthe des nombres ",
+                    "description": " un exercice en ligne amusant pour apprendre à compter jusqu'à 10. ",
+                    "link": "https://tidou.fr/4-6-ans/ludo-educatifs/270-labyrinthe-nombres-1-a-10" },
+          
+                    {
+                        "id":6,
+                        "image": "../G-Educatif/6.png",
+                        "name": "Labyrinthe alphabet",
+                        "description": "Transforme l'apprentissage de l'alphabet et de l'ordre alphabétique en plaisir grâce à ce jeu sonore.",
+                        "link": "https://tidou.fr/4-6-ans/ludo-educatifs/256-labyrinthe-alphabet" },
+        
+                        {
+                            "id":7,
+                            "image": "../G-Educatif/7.png",
+                            "name": "Jeu sonore pour apprendre l'alphabet",
+                            "description": "Jeu en ligne sonore qui consiste à remettre les lettres dans le bon ordre.",
+                            "link": "https://tidou.fr/4-6-ans/ludo-educatifs/217-lettres-dans-l-ordre" },
+
+                            {
+                                "id":8,
+                                "image": "../G-Educatif/8.png",
+                                "name": "Jeu de mémoire, les animaux marins",
+                                "description": "Ce jeu d'apprentissage sur les créatures de la mer peut être éducatif et intéressant pour les enfants. ",
+                                "link": "https://tidou.fr/4-6-ans/ludo-educatifs/188-jeu-de-memoire-animaux-marins" }, 
+                                
+                                {
+                                    "id":9,
+                                    "image": "../G-Educatif/9.png",
+                                    "name": "Relier les points, les formes",
+                                    "description": "Relie les points pour former des formes. ",
+                                    "link": "https://tidou.fr/4-6-ans/ludo-educatifs/231-relier-les-points-formes" },
+                                    
+                                    {
+                                        "id":10,
+                                        "image": "../G-Educatif/10.png",
+                                        "name": "Les animaux et leurs petits",
+                                        "description": "Jeu sonore en ligne : les animaux et leurs petits. ",
+                                        "link": "https://tidou.fr/4-6-ans/ludo-educatifs/31-animaux-et-leurs-petits" },
+                                        
+                                        {
+                                            "id":11,
+                                            "image": "../G-Educatif/11.png",
+                                            "name": "Les nombres",
+                                            "description": "Ce jeu de mémoire vise à enseigner les nombres de 0 à 20 aux enfants d'une manière amusante.  ",
+                                            "link": "https://tidou.fr/4-6-ans/ludo-educatifs/159-jeu-de-memoire-les-nombres" },
+                                            
+                                            {
+                                                "id":12,
+                                                "image": "../G-Educatif/12.png",
+                                                "name": "Les oiseaux",
+                                                "description": "Ce jeu de mémoire va renforcer et booster la capacité de mémorisation des enfants de manière ludique. ",
+                                                "link": "https://tidou.fr/4-6-ans/ludo-educatifs/156-jeu-de-memoire-oiseaux" },
+
+
+                                                {
+                                                    "id":13,
+                                                    "image": "../G-Educatif/13.png",
+                                                    "name": "Les animaux sauvages",
+                                                    "description": "Reconstitue les animaux sauvages. Pour cela, fais glisser chaque tête sur l'animal qui correspond. ",
+                                                    "link": "https://tidou.fr/4-6-ans/ludo-educatifs/11-droles-animaux1" },
+
+                                                    {
+                                                        "id":14,
+                                                        "image": "../G-Educatif/14.png",
+                                                        "name": "Les ombres, les fruits",
+                                                        "description": "Ce jeu éducatif permet d'apprendre à comparer et à associer des formes. Lorsqu'il pose les fruits au bon endroit, l'enfant entend leur nom et apprend à les reconnaître. ",
+                                                        "link": "https://tidou.fr/2-4-ans/ludo-educatifs/151-jeu-des-ombres-fruits" },
+
+                                                        {
+                                                            "id":15,
+                                                            "image": "../G-Educatif/15.png",
+                                                            "name": "Les moyens de transport",
+                                                            "description": "Observe bien les images et fais glisser chaque véhicule sur son ombre.",
+                                                            "link": "https://tidou.fr/2-4-ans/ludo-educatifs/210-les-transports" },
+                                                            
+                                                            {
+                                                                "id":16,
+                                                                "image": "../G-Educatif/16.png",
+                                                                "name": "Du plus grand au plus petit",
+                                                                "description": "Déplace les jouets à l'aide de la souris ou du doigt si tu utilises en appareil tactile afin de les ranger du plus grand au plus petit.",
+                                                                "link": "https://tidou.fr/2-4-ans/ludo-educatifs/30-plus-grand-au-plus-petit" }, 
+
+                                                                {
+                                                                    "id":17,
+                                                                    "image": "../G-Educatif/17.png",
+                                                                    "name": "Les animaux de la ferme, jeu de lettres",
+                                                                    "description": "Ce jeu compte 20 noms d'animaux à inscrire à l'aide du clavier.",
+                                                                    "link": "https://tidou.fr/7-10-ans/ludo-educatifs/399-animaux-de-la-ferme" },
+
+                                                                    {
+                                                                        "id":18,
+                                                                        "image": "../G-Educatif/18.png",
+                                                                        "name": "Les jours de la semaine, les mois, les saisons",
+                                                                        "description": "Jeu gratuit en ligne qui permet d'apprendre les noms des mois..",
+                                                                        "link": "https://tidou.fr/7-10-ans/ludo-educatifs/76-mois" },
+
+                                                                    {
+                                                                        "id":19,
+                                                                        "image": "../G-Educatif/19.png",
+                                                                        "name": "Séquences à compléter",
+                                                                        "description": "Complète les suites de nombres.",
+                                                                        "link": "https://tidou.fr/7-10-ans/ludo-educatifs/238-sequence-a-completer" },
+
+                                                                        {
+                                                                            "id":20,
+                                                                            "image": "../G-Educatif/20.png",
+                                                                            "name": "Les monuments célèbres dans le monde",
+                                                                            "description": "Relie chaque monument au pays qui correspond.",
+                                                                            "link": "https://tidou.fr/7-10-ans/ludo-educatifs/93-monuments" },
+
+                                                                            {
+                                                                                "id":21,
+                                                                                "image": "../G-Educatif/21.png",
+                                                                                "name": "Dominos",
+                                                                                "description": "Ce jeu en ligne ressemble au jeu de domino classique. ",
+                                                                                "link": "https://tidou.fr/4-6-ans/logique/344-dominos" },
+
+                                                                                {
+                                                                                    "id":22,
+                                                                                    "image": "../G-Educatif/22.png",
+                                                                                    "name": "Tableaux à double entrée, les quantités",
+                                                                                    "description": "Jeu d'éveil éducatif pour enfants : un tableau à double entrée pour apprendre à gérer et organiser des données.",
+                                                                                    "link": "https://tidou.fr/4-6-ans/logique/158-tableau-a-double-entrees-les-quantites" },
+
+                                                                                    {
+                                                                                        "id":23,
+                                                                                        "image": "../G-Educatif/23.png",
+                                                                                        "name": "Tableau à double entrée ",
+                                                                                        "description": "Fais glisser les différents objets et place-les dans les bonnes cases du tableau à double entrée.",
+                                                                                        "link": "https://tidou.fr/4-6-ans/logique/64-tableau-double-entree" },
+
+                                                                                        {
+                                                                                            "id":24,
+                                                                                            "image": "../G-Educatif/24.png",
+                                                                                            "name": "Sudoku : les animaux marins ",
+                                                                                            "description": "Observe bien la grille et fais glisser les images de droite dans les bonnes cases. Attention, dans chaque colonne et dans chaque ligne, les images doivent être différentes.",
+                                                                                            "link": "https://tidou.fr/4-6-ans/logique/8-sudoku4" },
+
+                                                                                            {
+                                                                                                "id":25,
+                                                                                                "image": "../G-Educatif/25.png",
+                                                                                                "name": "Association de formes, les animaux",
+                                                                                                "description": "Jeu en ligne qui consiste à associer des formes. Ces exercices ludiques développent le sens de l'observation de l'enfant  de maternelle et font travailler sa mémoire visuelle.",
+                                                                                                "link": "https://tidou.fr/2-4-ans/recreatifs/255-association-animaux" },
+
+                                                                                                {
+                                                                                                    "id":26,
+                                                                                                    "image": "../G-Educatif/26.png",
+                                                                                                    "name": "Les différences : les oiseaux",
+                                                                                                    "description": "Jeu d'observation en ligne pour enfants de maternelle moyenne ou grande secti Compare les deux images et clique sur les 5 erreurs.",
+                                                                                                    "link": "https://tidou.fr/2-4-ans/recreatifs/65-differences1" },
+
+                                                                                                    {
+                                                                                                        "id":27,
+                                                                                                        "image": "../G-Educatif/27.png",
+                                                                                                        "name": "Jeu de décoration : une ferme",
+                                                                                                        "description": "Activité sonore en ligne qui permet d'apprendre les noms des animaux de la ferme.",
+                                                                                                        "link": "https://tidou.fr/2-4-ans/recreatifs/71-ferme" },
+
+                                                                                                        {
+                                                                                                            "id":28,
+                                                                                                            "image": "../G-Educatif/28.png",
+                                                                                                            "name": "Les différences ; le voilier",
+                                                                                                            "description": "Compare les deux images et clique sur les 5 erreurs.",
+                                                                                                            "link": "https://tidou.fr/2-4-ans/recreatifs/67-differences3" },
+
+                                                                                                            {
+                                                                                                                "id":29,
+                                                                                                                "image": "../G-Educatif/29.png",
+                                                                                                                "name": "Les lettres mélangées, les animaux",
+                                                                                                                "description": "Jeu de lettres en ligne qui consiste à replacer les lettres dans le bon ordre pour reconstituer les mots.",
+                                                                                                                "link": "https://tidou.fr/7-10-ans/jeux-de-lettres/395-lettres-melangees-animaux" },
+                                                                                                                {
+                                                                                                                    "id":30,
+                                                                                                                    "image": "../G-Educatif/30.png",
+                                                                                                                    "name": "Classement de mots",
+                                                                                                                    "description": "Exercice éducatif en ligne qui consiste à classer des mots par ordre alphabétique. ",
+                                                                                                                    "link": "https://tidou.fr/7-10-ans/jeux-de-lettres/215-ordre-alphabetique" },
+
+                                                                                                                    {
+                                                                                                                        "id":31,
+                                                                                                                        "image": "../G-Educatif/31.png",
+                                                                                                                        "name": "Les proverbes",
+                                                                                                                        "description": "Replace les mots dans le bon ordre sur la barre afin de reconstituer le proverbe.  ",
+                                                                                                                        "link": "https://tidou.fr/7-10-ans/jeux-de-lettres/126-proverbe-1" },
+
+                                                                                                                        {
+                                                                                                                            "id":32,
+                                                                                                                            "image": "../G-Educatif/32.png",
+                                                                                                                            "name": "Jeu de rébus",
+                                                                                                                            "description": "Prononce le nom des objets. Ils t'aideront à découvrir le mot à deviner.",
+                                                                                                                            "link": "https://tidou.fr/7-10-ans/jeux-de-lettres/103-rebus5" },
+
+                                                                                                                         {
+                                                                                                                            "id":33,
+                                                                                                                            "image": "../G-Educatif/33.png",
+                                                                                                                            "name": " Le trajet du bus scolaire",
+                                                                                                                            "description": "Aide le bus scolaire à retrouver le chemin de l'école.",
+                                                                                                                            "link": "https://tidou.fr/4-6-ans/labyrinthes/247-labyrinthe-transport-scolaire" },
+
+                                                                                                                            {
+                                                                                                                                "id":34,
+                                                                                                                                "image": "../G-Educatif/34.png",
+                                                                                                                                "name": " Labyrinthe en ligne ; le château",
+                                                                                                                                "description": "Utilise les touches fléchées de direction du clavier ou les boutons du jeu pour diriger la voiture rouge dans le labyrinthe.",
+                                                                                                                                "link": "https://tidou.fr/4-6-ans/labyrinthes/124-labyrinthe-chateau" },
+
+                                                                                                                                {
+                                                                                                                                    "id":35,
+                                                                                                                                    "image": "../G-Educatif/35.png",
+                                                                                                                                    "name": " Labyrinthe en ligne ; le zoo",
+                                                                                                                                    "description": "Montre le chemin pour sortir du zoo en guidant la flèche rouge dans le labyrinthe. Utilise les touches de direction du clavier ou les boutons du jeu si tu utilises un appareil tactile.",
+                                                                                                                                    "link": "https://tidou.fr/4-6-ans/labyrinthes/143-labyrinthe-zoo" },
+
+                                                                                                                                    {
+                                                                                                                                        "id":36,
+                                                                                                                                        "image": "../G-Educatif/36.png",
+                                                                                                                                        "name": " Jeu de l'intrus",
+                                                                                                                                        "description": "Observe les différentes images puis appuie sur l'objet qui n'a pas de point commun avec tous les autres objets.",
+                                                                                                                                        "link": "https://tidou.fr/4-6-ans/intrus/410-intrus-2" },
+
+                                                                                                                                        {
+                                                                                                                                            "id":37,
+                                                                                                                                            "image": "../G-Educatif/37.png",
+                                                                                                                                            "name": " Puzzle vertical en ligne",
+                                                                                                                                            "description": "Les pièces de ce jeu de puzzle sont découpées linéairement. Pour reconstituer l'image, il suffit de faire glisser les pièces pour les replacer au bon endroit.",
+                                                                                                                                            "link": "https://tidou.fr/4-6-ans/puzzles/407-v-puzzle" },
+
+                                                                                                                                            {
+                                                                                                                                                "id":38,
+                                                                                                                                                "image": "../G-Educatif/38.png",
+                                                                                                                                                "name": "Puzzles-rotation",
+                                                                                                                                                "description": "Ce puzzle ne nécessite pas de déplacer les pièces pour les remettre au bon endroit. Il suffit d'appuyer ou cliquer sur une pièce pour la faire tourner. ",
+                                                                                                                                                "link": "https://tidou.fr/4-6-ans/puzzles/381-puzzles-rotation" },
+
+                                                                                                                                                {
+                                                                                                                                                    "id":39,
+                                                                                                                                                    "image": "../G-Educatif/39.png",
+                                                                                                                                                    "name": "Puzzle des formes",
+                                                                                                                                                    "description": "Trouve comment placer les différentes pièces dans le jeu pour compléter le carré.",
+                                                                                                                                                    "link": "https://tidou.fr/4-6-ans/puzzles/120-puzzle_formes" },
+
+                                                                                                                                                    {
+                                                                                                                                                        "id":40,
+                                                                                                                                                        "image": "../G-Educatif/40.png",
+                                                                                                                                                        "name": "Puzzles animaux",
+                                                                                                                                                        "description": "Puzzles en ligne avec tes animaux préférés : le chien, le chat, le lapin, la girafe, le lion et la vache.",
+                                                                                                                                                        "link": "https://tidou.fr/4-6-ans/puzzles/232-puzzles-animaux" }
+
+
+
+    ]

@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(104, 51, 152);
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    
+}
+#app{
+    padding: 0px;
+    
+}
+.search {
+}
+.row {
+    margin-left: 0 !important;
+}
+.paginate {
+    margin-left: 6px;
+}
+.paginate a {
+    background-color: #eee2ee;
+    color: #30043f;
+}
+
+.paginate a.active {
+    background-color: rgb(17, 13, 12);
+}
+
+.paginate a:hover:not(.active) {
+    background-color: rgb(254, 241, 252);
+    color: rgb(93, 43, 99);
+}
+
+input {
+    width: 40%;
+    border: 3px solid #380848;
+    padding: 5px;
+    height: 40px;
+    border-radius: 10px;
+    color: #42104e;
+    background-color: rgb(254, 241, 252);
+    
+}
+

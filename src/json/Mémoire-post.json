@@ -1,0 +1,100 @@
+[{
+        "id": 1,
+        "image": "../G-Mémoire/1.jpg",
+        "name": "Légumes",
+        "description": "Un jeu Memory avec 100 légumes différents. À vous de jouer et de retrouver les paires!",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/legumes" },
+ {
+        "id": 2,
+        "image": "../G-Mémoire/2.jpg",
+        "name": "Statues célèbres",
+        "description": "Un jeu Memory avec Plus de 50 statues différentes.À vous de jouer et de retrouver les paires!",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/statues-celebres" },
+
+  {     "id": 3,
+        "image": "../G-Mémoire/3.webp",
+        "name": "Noir et Blanc",
+        "description": "Un jeu Memory avec de nombreuses cartes tout en noir et blanc. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/noir-et-blanc" },
+  
+        {     "id": 4,
+        "image": "../G-Mémoire/4.jpg",
+        "name": "Rouge et Noir ",
+        "description": "Un jeu Memory tout en rouge, noir et blanc. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/rouge-et-noir" },
+
+        {     "id":5,
+        "image": "../G-Mémoire/5.jpg",
+        "name": "Films célèbres ",
+        "description": "Un jeu Memory avec les affiches des films les plus célèbres. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/films-celebres" },
+
+        {     "id":6,
+        "image": "../G-Mémoire/6.jpg",
+        "name": "Les planètes ",
+        "description": "Un jeu Memory pour apprendre le nom des planètes du système solaire. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/planetes-du-systeme-solaire" },
+
+        {     "id":7,
+        "image": "../G-Mémoire/7.jpg",
+        "name": "Des Nombres ",
+        "description": "Un jeu Memory avec beaucoup de nombres compris entre 0 et 100. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/nombres" },
+        
+        {     "id":8,
+        "image": "../G-Mémoire/8.jpg",
+        "name": "Drapeaux des Pays ",
+        "description": "Un jeu Memory avec tous les drapeaux des pays. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-adultes/drapeaux-des-pays" },
+
+        {     "id":9,
+        "image": "../G-Mémoire/9.jpg",
+        "name": "La Grille des Lettres",
+        "description": "Un jeu pour entraîner votre mémoire des mots avec les lettres de l'alphabet. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/autres-jeux-de-memoire/jeux-memoire-mots/grilles-avec-les-lettres-de-l-alphabet" },
+
+        {     "id":10,
+        "image": "../G-Mémoire/10.png",
+        "name": "la Grille de mots",
+        "description": "Dans ce jeu, il y a une série de de mots à mémoriser sur le thème de la mer. À vous de jouer!",
+        "link": "https://www.memozor.com/fr/autres-jeux-de-memoire/jeux-memoire-mots/grille-de-mots-theme-mer" },
+
+        {     "id":11,
+        "image": "../G-Mémoire/11.jpg",
+        "name": " Numéro de téléphone à mémoriser",
+        "description": "Un jeu de mémoire original avec un clavier de smartphone. À vous de jouer !",
+        "link": "https://www.memozor.com/fr/autres-jeux-de-memoire/jeux-memoire-nombres/le-numero-de-telephone" },
+
+        {     "id":12,
+        "image": "../G-Mémoire/12.jpg",
+        "name": " Apprend tes Tables de Multiplication",
+        "description": "Grâce à ce jeu, les enfants vont pouvoir, rapidement et facilement, apprendre toutes leurs Tables de multiplication.",
+        "link": "https://www.memozor.com/fr/tables-de-multiplications/jeux/tables" },
+
+        {     "id":13,
+        "image": "../G-Mémoire/13.webp",
+        "name": " Tables de Multiplication avec Cartes",
+        "description": "Tu pourras réviser efficacement tes tables grâce à ce jeu des tables de multiplication interactif, en ligne et gratuit.",
+        "link": "https://www.memozor.com/fr/tables-de-multiplications/jeux/cartes" },
+
+        {     "id":14,
+        "image": "../G-Mémoire/14.jpg",
+        "name": " Grand jeu de Memory",
+        "description": "Découvrez notre grand jeu de memory avec un très grand nombre de cartes.",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/grands-ou-geants/symboles" },
+
+        {     "id":15,
+        "image": "../G-Mémoire/15.jpg",
+        "name": " Grand jeu de Memory - Forêt",
+        "description": "Découvrez notre grand jeu de memory avec plus de 60 images de forêt.",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/grands-ou-geants/foret" },
+
+        {     "id":16,
+        "image": "../G-Mémoire/16.jpg",
+        "name": " Jeu de memory pour 2 joueurs - gâteaux",
+        "description": "Un excellent jeu de memory à 2 joueurs avec de nombreux gâteaux très appétissants.",
+        "link": "https://www.memozor.com/fr/jeux-de-memory/pour-2-joueurs/gateaux" }
+        
+   
+    ]
+  
